@@ -84,7 +84,7 @@ class MainActivity : AppCompatActivity() {
                 result += "X"
             }
         }
-        return result.uppercase()
+        return result.uppercase() //prints out the Wordle answer as lowercase
     }
 
 
